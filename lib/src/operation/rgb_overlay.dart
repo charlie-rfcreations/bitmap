@@ -1,4 +1,4 @@
-import 'dart:ffi' as ffi;
+import 'package:universal_ffi/ffi.dart' as ffi;
 import 'dart:typed_data';
 
 import '../bitmap.dart';
